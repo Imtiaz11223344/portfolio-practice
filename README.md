@@ -26,8 +26,8 @@ During this project, I practiced:
 ## 🖥️ Preview
 
 You can view the live version of this site here:  
-👉 **[Portfolio Practice (GitHub Pages)](https://YOUR-USERNAME.github.io/portfolio-practice/)**  
-*(Replace `YOUR-USERNAME` with your actual GitHub username once you publish it.)*
+👉 **[Portfolio Practice (GitHub Pages)](https://imtiaz11223344.github.io/portfolio-practice/)**  
+
 
 
 
